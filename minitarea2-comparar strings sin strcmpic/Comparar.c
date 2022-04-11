@@ -1,18 +1,9 @@
-
-
 /* 
 Hecho por Joaquin Leal >.0
  */
-
-
 #include <stdio.h>
-
-
-
 char string1[30];       //Asumimos el largo 30, realmente no creo que exista una palabra más larga que eso.
 char string2[30];
-
-
 
 
 
