@@ -8,9 +8,11 @@ make: *** No rule to make target '"C:\Users\joaqu\OneDrive - Universidad Adolfo 
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
+ 
 
-# Make data base, printed on Wed Apr 27 20:44:25 2022
+# Make data base, printed on Thu Apr 28 00:32:35 2022
 
+ 
 # Variables
 
 # environment
@@ -26,7 +28,7 @@ VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # environment
 LOCALAPPDATA = C:\Users\joaqu\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-c59d8862-dfd7-4688-87e2-8afe52889de5-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-bc3c5575-20d4-4f5d-9d73-50d5a590e83d-sock
 # environment
 VSCODE_CWD = C:\Users\joaqu\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -40,7 +42,7 @@ MAKE_COMMAND := /usr/bin/make
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_49768_CCTMJTSAMOLZZDFN
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_26272_BCWGHVOQGDVPSYIY
 # environment
 ONEDRIVECOMMERCIAL = C:\Users\joaqu\OneDrive - Universidad Adolfo Ibanez
 # environment
@@ -98,9 +100,10 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
+ 
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 49768
+VSCODE_PID = 26272
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -186,6 +189,7 @@ PROCESSOR_ARCHITECTURE = AMD64
 # environment
 RTOOLS40_HOME = C:\rtools40
 # environment
+ 
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 HOME = /home/Joaquin Leal
@@ -266,6 +270,6 @@ all:
 # strcache performance: lookups = 8 / hit rate = 37%
 # hash-table stats:
 # Load=5/8192=0%, Rehash=0, Collisions=0/8=0%
-# Finished Make data base on Wed Apr 27 20:44:25 2022
+# Finished Make data base on Thu Apr 28 00:32:35 2022
 
  
