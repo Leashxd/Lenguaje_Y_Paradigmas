@@ -1,5 +1,6 @@
 C:\msys64\usr\bin\make.exe all -f C:\Users\joaqu\OneDrive - Universidad Adolfo Ibanez\3er Año\Estructura de datos y algoritmos\Tarea_1\makefile --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: "C:\Users\joaqu\OneDrive - Universidad Adolfo Ibanez\3er Año\Estructura de datos y algoritmos\Tarea_1\makefile": No such file or directory
+make: *** No rule to make target '"C:\Users\joaqu\OneDrive - Universidad Adolfo Ibanez\3er Año\Estructura de datos y algoritmos\Tarea_1\makefile"'.  Stop.
 
 # GNU Make 4.3
 # Built for x86_64-pc-msys
@@ -7,15 +8,11 @@ make: "C:\Users\joaqu\OneDrive - Universidad Adolfo Ibanez\3er Año\Estructura d
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
- 
-make: *** No rule to make target '"C:\Users\joaqu\OneDrive - Universidad Adolfo Ibanez\3er Año\Estructura de datos y algoritmos\Tarea_1\makefile"'.  Stop.
 
-
-# Make data base, printed on Wed Apr 27 00:16:12 2022
+# Make data base, printed on Wed Apr 27 20:44:25 2022
 
 # Variables
 
- 
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
@@ -29,7 +26,7 @@ VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # environment
 LOCALAPPDATA = C:\Users\joaqu\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-daa6865b-7797-4886-b7ce-a4821dd7e405-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-c59d8862-dfd7-4688-87e2-8afe52889de5-sock
 # environment
 VSCODE_CWD = C:\Users\joaqu\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -133,7 +130,6 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
- 
 PATH = /c/Program Files/Common Files/Oracle/Java/javapath:/c/Program Files/AdoptOpenJDK/jdk-16.0.1.9-hotspot/bin:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/Git/cmd:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mingw64/bin:/c/Program Files (x86)/Microsoft SQL Server/150/DTS/Binn:/c/Program Files/Azure Data Studio/bin:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Users/joaqu/AppData/Local/Programs/Python/Python38/Scripts:/c/Users/joaqu/AppData/Local/Programs/Python/Python38:/c/Users/joaqu/AppData/Local/Microsoft/WindowsApps:/c/Users/joaqu/AppData/Local/GitHubDesktop/bin:/c/Users/joaqu/AppData/Local/Programs/Microsoft VS Code/bin:/c/php:/c/Program Files/Azure Data Studio/bin
 # environment
 COMPUTERNAME = DESKTOP-P8PN9R7
@@ -225,7 +221,6 @@ PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
 # Pattern-specific Variable Values
 
 # No pattern-specific variable values.
- 
 
 # Directories
 
@@ -271,6 +266,6 @@ all:
 # strcache performance: lookups = 8 / hit rate = 37%
 # hash-table stats:
 # Load=5/8192=0%, Rehash=0, Collisions=0/8=0%
-# Finished Make data base on Wed Apr 27 00:16:12 2022
+# Finished Make data base on Wed Apr 27 20:44:25 2022
 
  
